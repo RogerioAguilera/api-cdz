@@ -2,5 +2,5 @@
 
 *Tecnologias*
 
-`FastAPI`
-`Uvicorn`
+- [x] FastAPI
+- [x] Uvicorn
